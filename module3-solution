@@ -1,0 +1,64 @@
+body {
+font-size:16px;
+color: #fff;
+background-color: #61122f;
+font-family: 'Oxygen', sans-serif;
+}
+/** HEADER **/
+#header-nav{
+background-color: f6b319;
+border-radius: 0;
+border: 0;
+}
+.navbar-brand {
+padding-top: 25px;
+}
+.navbar-brand h1 {/* Restaurant Name*/
+font-family: 'Lora', serif;
+color: #557c3e;
+font-size: 1.5em;
+text-transform: uppercase;
+font-weight: bold;
+text-shadow: 1px 1px 1px #222;
+margin-top: 0;
+margin-bottom: 0;
+line-height: .75;
+}
+#nav-list {
+margin-top:10px;
+}
+#nav-list a {
+color: #951c49;
+text-align: center;
+}
+#nav-list a:hover {
+background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle
+ {
+clear: both;
+margin-top: -30px;
+}
+/* home page */
+.container.jumbotron {
+box-shadow: 0 0 50px #3F0C1F;
+}
+border: 2px solid #3F0C1F;
+}
+#menu-title {
+height: 250px;
+width: 100px;
+margin-bottom: 15px;
+position: relative;
+border: 2px solid #3F0C1F;
+overflow: hidden;
+}
+#menu-tile: hover {
+box-shadow: 0px 1px 5px 1px #ccccccc;
+background-position: center;
+}
+/* End Home Page */
+/* Menu Categories Page */
+
+
+
